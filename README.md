@@ -24,13 +24,13 @@ This repository contains an analysis of school performance using Python and Pand
 ## Visualizations
 
 ### Average Math Scores by School Type
-![Average Math Scores by School Type]("Images/average_math_score.png")
+![Average Math Scores by School Type]("../Images/average_math_score.png")
 
 ### Passing Rates by School Size
-![Passing Rates by School Size]("Images/scores_bysize.png")
+![Passing Rates by School Size]("../Images/scores_bysize.png")
 
 ### Spending vs. Passing Rates
-![Spending vs. Passing Rates]("Images/scores_byschoolspending.png")
+![Spending vs. Passing Rates]("../Images/scores_byschoolspending.png")
 
 ## Conclusion
 
