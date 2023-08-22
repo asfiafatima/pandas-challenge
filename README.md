@@ -54,7 +54,3 @@ This analysis provides valuable insights into the factors influencing school per
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
----
-
-Feel free to customize this README according to your specific analysis and insights. It provides an overview of your analysis, key findings, methodology, visualizations, and instructions for reproduction.
