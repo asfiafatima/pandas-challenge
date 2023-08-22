@@ -1,8 +1,3 @@
-# pandas-challenge
-Certainly! Below is an example README for your PyCity Schools Analysis. Remember to replace placeholders with actual content, such as images, URLs, and code snippets.
-
----
-
 # PyCity Schools Analysis
 
 This repository contains an analysis of school performance using Python and Pandas. The analysis focuses on various factors such as school budgets, school sizes, and school types to understand their impact on test results and overall performance.
@@ -29,13 +24,13 @@ This repository contains an analysis of school performance using Python and Pand
 ## Visualizations
 
 ### Average Math Scores by School Type
-![Average Math Scores by School Type]("C:\Users\thevc\Downloads\average math score.png")
+![Average Math Scores by School Type]("Images/average_math_score.png")
 
 ### Passing Rates by School Size
-![Passing Rates by School Size]("C:\Users\thevc\Downloads\scores by school size.png")
+![Passing Rates by School Size]("Images/scores_bysize.png")
 
 ### Spending vs. Passing Rates
-![Spending vs. Passing Rates]("C:\Users\thevc\Downloads\scores by school spending.png")
+![Spending vs. Passing Rates]("Images/scores_byschoolspending.png")
 
 ## Conclusion
 
